@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PerryQR</string>
+    <string name="logo_app" translatable="false">Logo FCE</string>
+    <string name="arrow_right" translatable="false">Arrow Right</string>
+    <string name="home_ticket" translatable="false">Home Ticket</string>
+    <string name="home_button" translatable="false">Home Button</string>
+    <string name="home_cart" translatable="false">Home Cart</string>
+    <string name="purchase_button" translatable="false">Purchase</string>
+    <string name="bottom_ticket" translatable="false">Bottom Ticket</string>
+    <string name="menu_button" translatable="false">Menu</string>
+    <string name="title" translatable="false">Ciao</string>
+    <string name="name" translatable="false">Perry The Platypus</string>
+    <string name="buy_tickets" translatable="false">Acquista titoli di \nviaggio</string>
+    <string name="urban_tickets">Titoli Urbani</string>
+    <string name="wallet">Portafoglio titoli di \nviaggio</string>
+    <string name="personal_tickets">Accedi ai tuoi titoli</string>
+    <string name="home">Home</string>
+    <string name="purchase">Acquista</string>
+    <string name="tickets">Titoli</string>
+    <string name="menu">Menu</string>
+    <string name="extraurban_tickets">Titoli extra-urbani</string>
+    <string name="infomobility">Infomobilità</string>
+    <string name="access_infomobility">Accedi a Infomobilità</string>
+    <string name="home_infomobility">Home Infomobilità</string>
+</resources>
